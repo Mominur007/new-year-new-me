@@ -1,0 +1,221 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Work Sans', sans-serif
+}
+
+/* Header Section Style  Start*/
+.header {
+    background: url(images/banner/banner3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 99vh;
+}
+
+.header-container {
+    color: #FFFFFF;
+    padding: 216px 230px 364px 845px;
+    text-align: right;
+}
+
+.header-main {
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 24px;
+    line-height: 76px;
+}
+
+.header-content {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 35px;
+    line-height: 26px;
+}
+
+.header-button {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 25px;
+    color: #005FAC;
+    background-color: #FFFFFF;
+    border: 0;
+    border-radius: 05px;
+}
+
+/* Main Section Style Start */
+.main-div {
+    display: flex;
+    align-items: center;
+    margin: 160px 264px 100px 264px;
+}
+
+.main-first-div {
+    margin: 90px;
+}
+
+.second-div-head {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 24px;
+}
+
+.second-div-content {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.list-column {
+    margin-top: 60px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.fa-check {
+    color: #16D887;
+}
+
+/* my plan style section  */
+.skill {
+    margin: 30px 40px;
+
+}
+
+.section-title {
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414;
+}
+
+.img{
+    margin-bottom: 20px;
+}
+.skills-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-bottom: 15px;
+}
+
+.skill-description {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
+
+/* linear-gradient style section */
+.watch-bg {
+    width: 1140px;
+    height: 300px;
+    margin: 0px auto 60px;
+    background-image: linear-gradient(to right, #0b65afe0, #0b65af27), url(images/watch.png);
+    border-radius: 5px;
+
+}
+
+.watch-text {
+    padding: 55px 617px 55px 60px;
+}
+
+.watch-text-head {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.watch-text-button {
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    border: 0;
+    border-radius: 5px;
+    color: #005FAC;
+    background-color: #FFFFFF;
+}
+
+/* Footer section style  */
+
+.head-footer {
+    display: flex;
+    gap: 330px;
+    background-color: black;
+    padding: 130px 230px;
+
+}
+
+.ftr-head {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    margin-bottom: 15px;
+}
+
+.footer-container {
+    color: #FFFFFF;
+}
+
+.ftr-content p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+
+.icon a {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.subscribe {
+    color: #FFFFFF;
+}
+
+.subscribe-head {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    margin-bottom: 35px;
+}
+
+input {
+    padding-left:15px;
+    width: 350px;
+    height: 64px;
+    font-size: 20px;
+    color: #FFFFFF;
+    border: 1px solid rgba(248, 225, 225, 0.918);
+    background-color: #151414;
+    border-radius: 10px;
+    margin-bottom:25px ;
+}
+
+.btn-scbe {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 20px 36px;
+    color: #F15B22;
+    border-radius: 10px;
+}
